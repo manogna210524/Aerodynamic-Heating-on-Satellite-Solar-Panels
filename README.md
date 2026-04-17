@@ -167,12 +167,3 @@ Multiple regression models are trained and compared to identify the most accurat
 
 ---
 
-## 👥 Team Members
-
-* Manogna Adikam
-* Varsha
-* Praneetha
-* Ram Raj
-
----
-
