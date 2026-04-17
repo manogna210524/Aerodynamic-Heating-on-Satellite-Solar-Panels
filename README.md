@@ -176,8 +176,3 @@ Multiple regression models are trained and compared to identify the most accurat
 
 ---
 
-## ⭐ If you like this project
-
-Give it a star ⭐ and feel free to contribute!
-
----
