@@ -1,5 +1,3 @@
-# Aerodynamic-Heating-on-Satellite-Solar-Panels
-Machine Learning–Based Prediction of Aerodynamic Heating on Satellite Solar Panels.
 # ☀️ Solar Panel Max Temperature Prediction Dashboard
 
 An end-to-end Machine Learning project that predicts the **maximum temperature of solar panels** using environmental factors such as irradiance and ambient temperature.
